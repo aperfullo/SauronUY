@@ -1,0 +1,69 @@
+{
+  "overview": {
+    "portales": {
+      "summary": "La semana uruguaya estuvo dominada por la final de la Copa Libertadores 2026 en el Centenario, generando un volumen sin precedentes de ocasiones de consumo y socialización. Se registran señales fuertes en Eventos, Deportes y Socialización, mientras que Wellness e Imagen muestran señales culturales emergentes ligadas al bienestar y al turismo premium."
+    }
+  },
+  "pilares": {
+    "SOCIALIZATION": [
+      {
+        "titulo_corto": "Primera Noche de Bares Notables Montevideo",
+        "resumen": "El Municipio B inaugura su Noche de Cafés y Bares Notables: ocho locales históricos de Montevideo abren con propuestas culturales, reafirmando los bares como espacios de convivencia, identidad y encuentro ciudadano.",
+        "medio": "La Diaria",
+        "url": "https://ladiaria.com.uy/cotidiana/articulo/2026/11/primera-noche-de-los-cafes-y-bares-notables-del-municipio-b"
+      },
+      {
+        "titulo_corto": "Cabify: las juntadas reales contra la IA",
+        "resumen": "Cabify lanza 'Juntadas Reales': personajes de IA reivindican con humor los brindis, sobremesas y reencuentros de fin de año que solo ocurren en persona, impulsando la movilidad para las salidas nocturnas y fiestas.",
+        "medio": "Infonegocios",
+        "url": "https://infonegocios.biz/y-ademas/cabify-presenta-juntadas-reales-campana-que-usa-ia-para-reirse-de-la-ia"
+      }
+    ],
+    "FLAVOR": [],
+    "WELLNESS": [
+      {
+        "titulo_corto": "FIT REPUBLIC: fitness premium llega a 18 de Julio",
+        "resumen": "La cadena FIT REPUBLIC abre su primer gimnasio en Montevideo sobre 18 de Julio, reflejando la expansión del mercado wellness urbano en Uruguay y la creciente tensión entre estilos de vida activos y consumo de bebidas.",
+        "medio": "Infonegocios",
+        "url": "https://infonegocios.biz/nota-principal/fit-republic-desembarca-en-montevideo-de-la-mano-de-viaaqua-abre-su-primer-gimnasio-en-18-de-julio-y-proyecta-expandirse"
+      }
+    ],
+    "AFFORDABILITY": [],
+    "IMAGE": [
+      {
+        "titulo_corto": "Enoturismo y experiencias premium en Uruguay",
+        "resumen": "La guía de turismo interno de Uruguay posiciona el enoturismo junto a termas y pueblos históricos como destinos aspiracionales, mostrando cómo el vino y las experiencias premium compiten en el imaginario de ocasiones sofisticadas.",
+        "medio": "El País",
+        "url": "https://www.elpais.com.uy/vida-actual/guia-de-turismo-interno-en-uruguay-termas-enoturismo-playas-y-pueblos-historicos-por-region"
+      }
+    ],
+    "SPORTS": [
+      {
+        "titulo_corto": "Final Libertadores: alcohol prohibido en el Centenario",
+        "resumen": "La final Estudiantes-Palmeiras del 28/11 en el Estadio Centenario despliega 1.930 policías y prohíbe el ingreso de alcohol y botellas: la categoría se consume en el afuera del estadio, en bares y espacios de previa.",
+        "medio": "Montevideo Portal",
+        "url": "https://www.montevideo.com.uy/Noticias/Final-Libertadores-cortes-de-transito-puntos-de-encuentro-y-el-operativo-en-Montevideo-uc983486"
+      },
+      {
+        "titulo_corto": "US$ 70 millones de impacto para Uruguay",
+        "resumen": "La final de la Libertadores genera un impacto estimado de US$ 70 millones: entradas agotadas y 20.000 fanáticos del exterior impulsan el consumo en gastronomía, bares y entretenimiento de Montevideo.",
+        "medio": "El País",
+        "url": "https://www.elpais.com.uy/ovacion/futbol/la-final-de-la-libertadores-2026-en-montevideo-entradas-agotadas-y-un-impacto-estimado-de-us-70-millones"
+      }
+    ],
+    "EVENTS": [
+      {
+        "titulo_corto": "Fan Fest gratuito en la Rambla de Montevideo",
+        "resumen": "La Libertadores Experience ocupa la Rambla de Punta Carretas del 23 al 27 de noviembre: entrada gratis con QR, música en vivo con DJs, food trucks y desafíos de fútbol para miles de fanáticos uruguayos y visitantes del exterior.",
+        "medio": "El País",
+        "url": "https://www.elpais.com.uy/ovacion/futbol/todo-lo-que-tenes-que-saber-del-fan-fest-de-la-final-de-la-copa-libertadores-donde-es-y-como-conseguir-entradas"
+      },
+      {
+        "titulo_corto": "Los Fatales: 30 años con cerveza incluida",
+        "resumen": "El Antel Arena recibió el show aniversario de Los Fatales con lleno total. La crónica destaca el cierre con 'La piscina' y la cerveza como parte del ritual de la noche, consolidando al Antel Arena como epicentro de grandes eventos sociales.",
+        "medio": "El País",
+        "url": "https://www.elpais.com.uy/tvshow/musica/cronica-de-los-fatales-en-el-antel-arena-la-noche-en-que-el-animador-de-todas-las-fiestas-fata-delgado-honro-la-alegria"
+      }
+    ]
+  }
+}
