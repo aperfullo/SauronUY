@@ -1,0 +1,85 @@
+{
+  "schema_version": 3,
+  "methodology_version": "sauron_insights_v3_weekly",
+  "period": {
+    "period_id": "2026-W48",
+    "from_date": "2026-11-20",
+    "to_date": "2026-11-26",
+    "days": 7
+  },
+  "trend_status": {
+    "emerging": [
+      {
+        "topic_id": "copa_libertadores_mega_ocasion",
+        "title": "Copa Libertadores convierte Montevideo en epicentro de consumo",
+        "summary": "La final Libertadores (28/11) movilizó 20.000 fanáticos y US$70M de impacto. El Fan Fest en la Rambla y las previas del Centenario crean la mayor ocasión de consumo para la categoría en Montevideo en años.",
+        "current_value": 4,
+        "historical_value": null,
+        "source_support": [
+          "news"
+        ]
+      },
+      {
+        "topic_id": "brecha_precios_frontera_brasil",
+        "title": "Brecha de precios Uruguay-Brasil expone barrera de acceso",
+        "summary": "@caalf01 (84 reposts, 10K views): mismo gasto en Brasil cubre cerveza y más; en Uruguay solo leche y agua. La conversación en la frontera expone presión real sobre el acceso a la categoría.",
+        "current_value": 1,
+        "historical_value": null,
+        "source_support": [
+          "x"
+        ]
+      },
+      {
+        "topic_id": "bares_identidad_cultural_montevideo",
+        "title": "Bares como espacios de identidad y encuentro en Montevideo",
+        "summary": "La Primera Noche de Bares Notables del Municipio B y Cabify 'Juntadas Reales' posicionan los bares como territorio cultural que refuerza el encuentro presencial y la ocasión on-trade.",
+        "current_value": 2,
+        "historical_value": null,
+        "source_support": [
+          "news"
+        ]
+      }
+    ],
+    "persistent": [],
+    "declining": []
+  },
+  "market_radar": {
+    "brand": [
+      {
+        "entity": "Marcas cerveza",
+        "headline": "Copa Libertadores: activación en la Rambla y las previas",
+        "summary": "El Fan Fest en la Rambla (25-27/11) concentra fanáticos con food trucks y música: oportunidad para activar cerveza en la mayor ocasión social del año sin colisionar con la prohibición dentro del estadio.",
+        "asset_key": null
+      },
+      {
+        "entity": "Corona",
+        "headline": "Corona sin alcohol: opción en fiestas y mega-eventos",
+        "summary": "La conversación en X menciona Corona sin alcohol en eventos sociales uruguayos, reforzando la oportunidad de posicionar la categoría zero en fiestas donde la moderación responsable gana relevancia.",
+        "asset_key": null
+      }
+    ],
+    "category": [
+      {
+        "entity": "Categoría cerveza",
+        "headline": "Bares como territorio de convivencia e identidad cultural",
+        "summary": "La institucionalización de bares notables en Montevideo y la reivindicación de juntadas reales señalan demanda de socialización presencial que sitúa a los bares y la cerveza en el centro de la vida urbana.",
+        "asset_key": null
+      },
+      {
+        "entity": "Wellness urbano",
+        "headline": "Fitness premium en expansión tensiona el consumo",
+        "summary": "FIT REPUBLIC abre en 18 de Julio: el crecimiento del wellness urbano en Montevideo tensiona el consumo de alcohol y abre espacio para propuestas sin alcohol o baja graduación integradas al fitness.",
+        "asset_key": null
+      }
+    ],
+    "competition": [
+      {
+        "entity": "Heineken",
+        "headline": "La cerveza para quienes no les gusta la cerveza",
+        "summary": "La conversación en X posiciona a Heineken como opción de bajo compromiso sin perfil cervecero definido, abriendo espacio para marcas con identidad fuerte que busquen convertir consumidores casuales.",
+        "asset_key": null
+      }
+    ],
+    "takeaway": "La Copa Libertadores convierte Montevideo en epicentro de consumo social; la brecha con Brasil y el wellness urbano son los frentes que las marcas deben navegar."
+  }
+}

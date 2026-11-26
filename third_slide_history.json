@@ -1,0 +1,169 @@
+{
+  "schema_version": 1,
+  "methodology_version": "sauron_insights_v3_weekly",
+  "topics": {
+    "copa_libertadores_mega_ocasion": {
+      "label": "Copa Libertadores como mega-ocasión",
+      "aliases": [
+        "final libertadores montevideo"
+      ],
+      "series": [
+        {
+          "period_id": "2026-W48",
+          "from_date": "2026-11-20",
+          "to_date": "2026-11-26",
+          "x_volume": null,
+          "x_engagement": null,
+          "x_views": null,
+          "news_articles": 4
+        }
+      ]
+    },
+    "brecha_precios_frontera_brasil": {
+      "label": "Brecha de precios Uruguay-Brasil",
+      "aliases": [
+        "precio frontera brasil",
+        "poder adquisitivo frontera"
+      ],
+      "series": [
+        {
+          "period_id": "2026-W48",
+          "from_date": "2026-11-20",
+          "to_date": "2026-11-26",
+          "x_volume": 1,
+          "x_engagement": 368,
+          "x_views": 10681,
+          "news_articles": 0
+        }
+      ]
+    },
+    "bares_identidad_cultural_montevideo": {
+      "label": "Bares como identidad cultural",
+      "aliases": [
+        "bares notables montevideo",
+        "juntadas presenciales"
+      ],
+      "series": [
+        {
+          "period_id": "2026-W48",
+          "from_date": "2026-11-20",
+          "to_date": "2026-11-26",
+          "x_volume": null,
+          "x_engagement": null,
+          "x_views": null,
+          "news_articles": 2
+        }
+      ]
+    },
+    "wellness_fitness_urbano": {
+      "label": "Wellness y fitness urbano",
+      "aliases": [
+        "fitness premium montevideo"
+      ],
+      "series": [
+        {
+          "period_id": "2026-W48",
+          "from_date": "2026-11-20",
+          "to_date": "2026-11-26",
+          "x_volume": null,
+          "x_engagement": null,
+          "x_views": null,
+          "news_articles": 1
+        }
+      ]
+    }
+  },
+  "pillars": {
+    "Wellness": {
+      "series": [
+        {
+          "period_id": "2026-W48",
+          "from_date": "2026-11-20",
+          "to_date": "2026-11-26",
+          "x_volume": 0,
+          "x_engagement": 0,
+          "x_views": 0,
+          "news_articles": 1
+        }
+      ]
+    },
+    "Socializing": {
+      "series": [
+        {
+          "period_id": "2026-W48",
+          "from_date": "2026-11-20",
+          "to_date": "2026-11-26",
+          "x_volume": 5,
+          "x_engagement": 0,
+          "x_views": 1273,
+          "news_articles": 2
+        }
+      ]
+    },
+    "Affordability": {
+      "series": [
+        {
+          "period_id": "2026-W48",
+          "from_date": "2026-11-20",
+          "to_date": "2026-11-26",
+          "x_volume": 1,
+          "x_engagement": 368,
+          "x_views": 10681,
+          "news_articles": 0
+        }
+      ]
+    },
+    "Image": {
+      "series": [
+        {
+          "period_id": "2026-W48",
+          "from_date": "2026-11-20",
+          "to_date": "2026-11-26",
+          "x_volume": 0,
+          "x_engagement": 0,
+          "x_views": 0,
+          "news_articles": 1
+        }
+      ]
+    },
+    "Taste": {
+      "series": [
+        {
+          "period_id": "2026-W48",
+          "from_date": "2026-11-20",
+          "to_date": "2026-11-26",
+          "x_volume": 5,
+          "x_engagement": 4,
+          "x_views": 920,
+          "news_articles": 0
+        }
+      ]
+    },
+    "Sports": {
+      "series": [
+        {
+          "period_id": "2026-W48",
+          "from_date": "2026-11-20",
+          "to_date": "2026-11-26",
+          "x_volume": 0,
+          "x_engagement": 0,
+          "x_views": 0,
+          "news_articles": 2
+        }
+      ]
+    },
+    "Events": {
+      "series": [
+        {
+          "period_id": "2026-W48",
+          "from_date": "2026-11-20",
+          "to_date": "2026-11-26",
+          "x_volume": 0,
+          "x_engagement": 0,
+          "x_views": 0,
+          "news_articles": 2
+        }
+      ]
+    }
+  }
+}
